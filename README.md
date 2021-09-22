@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wujus!
+- 👀 I’m interested in coding, gaming, music and also cars.
+- 🌱 I’m currently learning JavaScript and TypeScript.
+- 💞️ I’m looking to collaborate on anything that can help me learn! :)
+- 📫 How to reach me - you can't.
